@@ -1,5 +1,5 @@
 # Dice-Game
-Use below link to access the application:-
+Use given link to access the application:-
 https://ankushpal98.github.io/Dice-Game/
 
 You have to reload the page everytime to see the winner. 
